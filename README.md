@@ -15,6 +15,6 @@ Scanning the markers with the app will show the video clips demonstrating how to
 
 Here is an example video clip demonstrating one of the steps:
 
-<video src="Assets/Resources/3. Postavljanje maske.mp4"></video>
+[![Demo Video](https://imgur.com/6RPVOp6)]()
 
 That's it! Put the app to a good use and stay safe out there!
