@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="3_Postavljanje_maske" size="0.135466 0.135466" />
+    <ImageTarget name="2_Oblacenje_odela" size="0.135466 0.135466" />
+    <ImageTarget name="7_Skidanje_opreme" size="0.135466 0.135466" />
+    <ImageTarget name="6_Provera" size="0.135466 0.135466" />
+    <ImageTarget name="5_Oblacenje_rukavica" size="0.135466 0.135466" />
+    <ImageTarget name="4_Postavljanje_naocara" size="0.135466 0.135466" />
+    <ImageTarget name="1_Ciscenje_ruku" size="0.135466 0.135466" />
+  </Tracking>
+</QCARConfig>
