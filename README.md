@@ -15,6 +15,6 @@ Scanning the markers with the app will show the video clips demonstrating how to
 
 Here is an example video clip demonstrating one of the steps:
 
-[![Demo Video](https://imgur.com/6RPVOp6)]()
+![](Assets/Resources/video.gif)
 
 That's it! Put the app to a good use and stay safe out there!
